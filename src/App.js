@@ -9,7 +9,7 @@ import Resume from './components/Resume/Resume';
 
 function App() {
   return (
-    <div className="App">
+    <div >
       <BrowserRouter>
         <Header></Header>
         <Routes>
