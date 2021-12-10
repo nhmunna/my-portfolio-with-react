@@ -4,6 +4,7 @@ import Blogs from './components/Blogs/Blogs';
 import Contact from './components/Contact/Contact';
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
+import ParticleReact from './components/ParticleReact/ParticleReact';
 import Projects from './components/Projects/Projects';
 import Resume from './components/Resume/Resume';
 
@@ -21,6 +22,7 @@ function App() {
           <Route path="/contact" element={<Contact></Contact>}></Route>
         </Routes>
       </BrowserRouter>
+      <ParticleReact></ParticleReact>
     </div>
   );
 }
