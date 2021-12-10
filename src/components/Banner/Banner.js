@@ -22,10 +22,10 @@ const Banner = () => {
                     </div>
                     <div>
                         <p className="text-white">
-                            Having a passion for web development, therefore, I have been working with JavaScript,
+                            Though I have completed my M.Sc. in Mathematics, I have a passion for web development. Therefore, I have been working with JavaScript,
                             HTML,
                             CSS,
-                            React, Bootstrap, Material UI, MongoDB, Node.js, Firebase.
+                            React, Bootstrap, Material UI, MongoDB, Node.js, Firebase and continuously learning other technologies.
                         </p>
                     </div>
                 </div>

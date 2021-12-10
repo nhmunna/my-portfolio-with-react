@@ -10,7 +10,7 @@ const Resume = () => {
                 <h2 className='resume-heading'>Do you want to see my RESUME?</h2>
             </div>
             <div>
-                <a href={resume} download><Button variant="success px-5">Download</Button></a>
+                <a href={resume} download><Button variant="warning px-5">Download</Button></a>
             </div>
         </div>
     );
