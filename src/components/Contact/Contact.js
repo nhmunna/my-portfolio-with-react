@@ -25,6 +25,12 @@ const Contact = () => {
                     <p>11 No Ward, Middle Charipur, Feni, Bangladesh</p>
                     <p>mdnurulhudamunna@gmail.com</p>
                     <p>+8801827267116</p>
+                    <div className='social-icons'>
+                        <a className='px-2' rel='noreferrer' target="_blank" href="https://www.facebook.com/nurulhuda.munna/"><i class="fab fa-facebook"></i></a>
+                        <a className='px-2' rel='noreferrer' target="_blank" href="https://twitter.com/NHMunna15"><i class="fab fa-twitter"></i></a>
+                        <a className='px-2' rel='noreferrer' target="_blank" href="https://www.linkedin.com/in/nurul-huda-munna/"><i class="fab fa-linkedin-in"></i></a>
+                        <a className='px-2' rel='noreferrer' target="_blank" href="https://github.com/nhmunna"><i class="fab fa-github"></i></a>
+                    </div>
                 </div>
                 <div className='col-lg-8 col-md-6 col-sm-12'>
                     <h3 className='d-flex flex-row my-3 justify-content-center align-items-center form-heading'>Let's keep in touch</h3>

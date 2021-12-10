@@ -27,6 +27,12 @@ const Banner = () => {
                             CSS,
                             React, Bootstrap, Material UI, MongoDB, Node.js, Firebase and continuously learning other technologies.
                         </p>
+                        <div className='social-icons-banner'>
+                            <a className='px-2' rel='noreferrer' target="_blank" href="https://www.facebook.com/nurulhuda.munna/"><i class="fab fa-facebook"></i></a>
+                            <a className='px-2' rel='noreferrer' target="_blank" href="https://twitter.com/NHMunna15"><i class="fab fa-twitter"></i></a>
+                            <a className='px-2' rel='noreferrer' target="_blank" href="https://www.linkedin.com/in/nurul-huda-munna/"><i class="fab fa-linkedin-in"></i></a>
+                            <a className='px-2' rel='noreferrer' target="_blank" href="https://github.com/nhmunna"><i class="fab fa-github"></i></a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-12">
