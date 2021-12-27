@@ -13,7 +13,7 @@ const Blogs = () => {
 
     return (
         <div>
-            <h3 className="heading">Blogs</h3>
+            <h3 className="heading-blog">Blogs</h3>
             <div class="container px-4 mt-5 d-flex flex-row">
                 <div class="row g-5">
                     <div className="col-lg-12 col-sm-12">
