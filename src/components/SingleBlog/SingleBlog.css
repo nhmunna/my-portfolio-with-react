@@ -1,0 +1,26 @@
+.blog {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 10px;
+    width: 80%;
+    text-align: justify;
+    padding: 10px;
+    text-justify: inter-word;
+}
+
+.blog h3 {
+    text-align: center;
+}
+
+.info h5 {
+    font-size: 12px;
+    color: gray;
+    font-weight: bold;
+}
+
+.info .time {
+    font-size: 10px;
+}

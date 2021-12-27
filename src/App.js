@@ -7,6 +7,7 @@ import Home from './components/Home/Home';
 import ParticleReact from './components/ParticleReact/ParticleReact';
 import Projects from './components/Projects/Projects';
 import Resume from './components/Resume/Resume';
+import SingleBlog from './components/SingleBlog/SingleBlog';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/resume" element={<Resume></Resume>}></Route>
           <Route path="/projects" element={<Projects></Projects>}></Route>
           <Route path="/blogs" element={<Blogs></Blogs>}></Route>
+          <Route path="/blog/:blogId" element={<SingleBlog></SingleBlog>}></Route>
           <Route path="/contact" element={<Contact></Contact>}></Route>
         </Routes>
       </BrowserRouter>
