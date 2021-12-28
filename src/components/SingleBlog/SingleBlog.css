@@ -24,3 +24,8 @@
 .info .time {
     font-size: 10px;
 }
+
+.details {
+    white-space: break-spaces;
+    font-size: 20px;
+}
